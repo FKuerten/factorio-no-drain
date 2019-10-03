@@ -1,0 +1,11 @@
+
+{
+  "name": "no-drain",
+  "version": "1.0.0",
+  "factorio_version": "0.17",
+  "title": "No energy drain for some entities",
+  "author": "Graveeater",
+  "contact": "Graveeater on steam",
+  "description": "Removes energy drain from some items",
+  "dependencies": ["base >= 0.17.69"]
+}
