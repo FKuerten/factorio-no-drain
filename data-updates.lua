@@ -10,3 +10,4 @@ end
 removeDrain('inserter')
 removeDrain('assembling-machine')
 removeDrain('furnace')
+removeDrain('lab')
